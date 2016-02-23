@@ -6,6 +6,6 @@ database : mysql
 framework: bootstrap
 
 client side : http://localhost/sj-i/sji/
-server side : http://localhost/
+server side : http://localhost/sj-i/
 
 
