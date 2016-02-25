@@ -8,4 +8,7 @@ framework: bootstrap
 client side : http://localhost/sj-i/sji/
 server side : http://localhost/sj-i/
 
+admin username  : admin
+admin password  : admin
+
 
